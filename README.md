@@ -8,13 +8,13 @@
 
 ## Education:
 
-#### 1. [Poloteknik Negeri Padang](https://www.pnp.ac.id) | D3 Manajemen Informatika | Padang `2020-2023`
+#### 1. [Poloteknik Negeri Padang](https://www.pnp.ac.id) | D3 Manajemen Informatika | Padang `2020-Now`
 #### 2. [SMKN 1 Pangkalan Kerinci](https://www.smkn1pangkalankerinci.sch.id) | TKJ | Pangkalan Kerinci `2017-2019`
 
 ## Work Experience:
-#### 1. [Binar Academy](https://binaracademy.com) | Student | Padang `Aug'2022 - Jan'2023` 
+#### 1. [Binar Academy](https://binaracademy.com) | Student | Padang `Aug'2022-Jan'2023` 
    - Fullstack Web Developer
-#### 2. [PT. Sahaware Teknologi Indonesia](https://www.sahaware.co.id) | Student Intern | Bandung `Feb'2023 - Now`
+#### 2. [PT. Sahaware Teknologi Indonesia](https://www.sahaware.co.id) | Student Intern | Bandung `Feb'2023-Now`
    - Fullstack web developer
 ---
 
