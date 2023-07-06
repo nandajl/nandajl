@@ -14,7 +14,7 @@
 ## Work Experience:
 #### 1. [Binar Academy](https://binaracademy.com) | Student | Padang `Aug'2022-Jan'2023` 
    - Fullstack Web Developer
-#### 2. [PT. Sahaware Teknologi Indonesia](https://www.sahaware.co.id) | Student Intern | Bandung `Feb'2023-Now`
+#### 2. [PT. Sahaware Teknologi Indonesia](https://www.sahaware.co.id) | Student Intern | Bandung `Feb'2023-Jun'2023`
    - Fullstack web developer
 ---
 
